@@ -1,0 +1,21 @@
+The As-a-Service models shifted the need for costly, protracted implementations to subscription based technology designed to reduce upfront IT spend, enhance client 
+flexibility, as well as give access to the latest technologies. All this is accomplished while the As-a-Service provider maintains their infrastructure entirely.
+
+As-a-Service models include:
+SaaS: Software as a Service, also known as cloud application services, represents the most commonly utilized option. SaaS utilizes the internet to deliver applications,
+which are managed by a third-party vendor, to its users. A majority of SaaS applications run directly through your web browser, which means they do not require any
+downloads or installations on the client side. Popular examples of SaaS include: Dropbox, Cisco WebEx.
+
+PaaS: Platform as a Service, also known as Cloud platform services, provide cloud components to certain software while being used mainly for applications. PaaS delivers 
+a framework for developers that they can build upon and use to create customized applications. All servers, storage, and networking can be managed by the enterprise or 
+a third-party provider while the developers can maintain management of the applications. Popular examples of PaaS include: Windows Azurem Google App Engine
+
+IaaS: Infrastructure as a Service, known as Cloud infrastructure services, are made of highly scalable and automated compute resources. IaaS is fully self-service for 
+accessing and monitoring computers, networking, storage, and other services. IaaS allows businesses to purchase resources on-demand and as-needed instead of having to 
+buy hardware outright. Popular examples of IaaS include: Linode, Amazon Web Services (AWS)
+
+XaaS: Everything as a Service, refers to the highly-individualized, responsive, data-driven products and offerings that are fully controlled by customers—and the data 
+they provide via everyday IoT-powered sources like cell phones and thermostats. XaaS include: Disaster Recovery as a Service (DRaaS), Communications as a Service (CaaS) 
+and Network as a Service (NaaS).
+
+
