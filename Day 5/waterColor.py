@@ -1,3 +1,6 @@
+#Tuto by The BuffED
+#https://www.youtube.com/watch?v=5bBkBVnrg2g
+
 import cairo, sys, argparse, copy, math, random
 
 float_gen = lambda a, b: random.uniform(a, b)
